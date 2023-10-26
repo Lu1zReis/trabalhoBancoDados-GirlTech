@@ -15,7 +15,7 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
       Estruturas:
       <table>
         <tr>
-          <td><img src=""></td>
+          <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/acessorio.png"></td>
           <td>img2</td>
           <td>img3</td>
           <td>img4</td>
