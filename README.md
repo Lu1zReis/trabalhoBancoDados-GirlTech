@@ -49,9 +49,9 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/resultados.png"></td>
     <td>Resultados das consultas</td>
   </tr>
-  <tr>
-    <td>Abaixo estão as leituras de três tabelas do banco de dados: cliente, funcionário e os serviços/ordem</td>
-  </tr>
+</table>
+    Abaixo estão as leituras de três tabelas do banco de dados: cliente, funcionário e os serviços/ordem
+<table>
   <tr>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/clienteSite.png"></td>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/funcionarioSite.png"></td>
