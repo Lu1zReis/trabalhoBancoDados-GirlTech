@@ -8,7 +8,7 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
 
 <li>Estrutura do Projeto</li>
 <p>Sistema para gerenciar uma ficticia loja de TI, que terá como foco principal a sua estrutura no Banco de Dados, com certas integrações com um Site em PHP para melhor visualização. Abaixo segue anexos da estrutura do banco e site.</p>
-
+<h3>Tabelas</h3>
 <table align="center">
   <tr>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/tabelas.png"></td>
@@ -42,4 +42,19 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/veiculo.png"></td>
   </tr>
   <tr><td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/venda.png"></td></tr>
+</table>
+<h3>Site</h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/resultados.png"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td>Resultados das consultas</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
