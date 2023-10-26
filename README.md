@@ -13,7 +13,6 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/tabelas.png"></td>
     <td>
       Estruturas:
-      
       <table>
         <tr>
           <td>img1</td>
@@ -21,13 +20,11 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
           <td>img3</td>
         </tr>
         <tr>
-            <td>img4</td>
-            <td>img5</td>
-            <td>img6</td>
+          <td>img1</td>
+          <td>img2</td>
+          <td>img3</td>
         </tr>
-        
       </table>
-      
     </td>
   </tr>
 </table>  
