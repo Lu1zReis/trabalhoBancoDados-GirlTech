@@ -1,2 +1,2 @@
 # trabalhoBancoDados-GirlTech
-<u>Trabalho de Banco de Dados, projeto final</u>
+<h1>Trabalho de Banco de Dados, projeto final</h1>
