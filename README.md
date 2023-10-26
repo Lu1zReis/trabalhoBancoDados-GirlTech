@@ -47,11 +47,11 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
 <table>
   <tr>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/resultados.png"></td>
-    <td></td>
+    <td>Resultados das consultas</td>
   </tr>
   <tr>
     <td><img src=""></td>
-    <td>Resultados das consultas</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
