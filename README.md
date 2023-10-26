@@ -20,9 +20,23 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
           <td>img3</td>
         </tr>
         <tr>
-          <td>img1</td>
-          <td>img2</td>
-          <td>img3</td>
+          <td>img4</td>
+          <td>img5</td>
+          <td>img6</td>
+        </tr>
+        <tr>
+          <td>img7</td>
+          <td>img8</td>
+          <td>img9</td>
+        </tr>
+        <tr>
+          <td>img10</td>
+          <td>img11</td>
+          <td>img12</td>
+        </tr>
+        <tr>
+          <td>img15</td>
+          <td>img16</td>
         </tr>
       </table>
     </td>
