@@ -18,28 +18,28 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
 <table>
   <tr>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/acessorio.png"></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/aparelho.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/assistente"></td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/atendente.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/celular.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/cliente.png"></td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/entrega.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/entregador.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/fornecedor.png"></td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/funcionario.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/item.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/loja.png"></td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/ordem.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/produto.png"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/veiculo.png"></td>
   </tr>
-  <tr><td><img src=""></td></tr>
+  <tr><td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/venda.png"></td></tr>
 </table>
