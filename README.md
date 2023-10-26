@@ -18,8 +18,6 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
           <td>img1</td>
           <td>img2</td>
           <td>img3</td>
-        </tr>
-        <tr>
           <td>img4</td>
           <td>img5</td>
           <td>img6</td>
