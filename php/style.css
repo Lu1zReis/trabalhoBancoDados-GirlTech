@@ -1,0 +1,201 @@
+* {
+padding:0;
+margin:0;
+vertical-align:baseline;
+list-style:none;
+border:0;
+font-family:"Lucida Console", "Courier New", monospace;
+
+}
+
+tr {
+	padding: 20px;
+	margin: 20px;
+	border=1;
+	background-color: red;
+}
+
+td {
+	padding: 10px;
+	border=1;
+	background-color: #f0e68c;
+}
+
+.cabecalho {
+	text-align: center;
+	border-bottom: 1px solid black;
+	width: 100%;
+
+}
+.cabecalho-titulo {
+	background-color: #A38BD9;
+	color: white;
+	padding: 30px;
+}
+.cabecalho-menu {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 10px;
+}
+.principal {
+	margin: 5%;
+	padding-bottom: 20%;
+	border-radius: 4px;
+	
+	background-color: #F2ECCE;
+}
+.principal-bv {
+	padding: 5%;
+}
+
+.dashboard {
+	margin-left: 30%;
+	margin-right: 30%;
+	align-items:center;
+	padding: 14px;
+	background-color: #F2C2CB;
+	border-radius: 10px;
+}
+
+.sessao-despesa {
+	display: flex;
+	justify-content: space-evenly;
+	border: 2px solid Navy;
+	background-color:#F2A2C8;
+	padding: 10px;
+	border-radius: 10px;
+	font: 14px;
+	margin: 20px;
+	font-size: 20px;
+}
+.sessao-despesa-cifrao {
+	font-size:xx-large;
+	color: white;
+	font-weight: bold;
+}
+.sessao-despesa-nome {
+	color: darkred;
+	font-size: x-large;
+	font-weight: bold;
+}
+.sessao-lucro {
+	display: flex;
+	justify-content: space-evenly;
+	border: 2px solid Navy;
+	padding: 10px;
+	border-radius: 10px;
+	background-color:#F2A2C8;
+	font: 14px;
+	margin: 20px;
+	font-size: 20px;
+}
+
+.sessao-lucro-cifrao {
+	font-size:xx-large;
+	color: white;
+	font-weight: bold;
+}
+.sessao-lucro-nome {
+	color: darkgreen;
+	font-size: x-large;
+	font-weight: bold;
+}
+.relatorios {
+	max-width: 100%;
+	display: flex;
+}
+.relatorio-nome {
+	text-align: center;
+	padding: 25px;
+}
+.nome-relatorio {
+	font-weight: bold;
+	border: 2px solid black;
+	justify-content: center;
+}
+.relatorio-clientes {
+	flex: auto;
+	padding: 10px;
+	max-width: 33%;
+	justify-content: space-evenly;
+	text-align: center;
+	border-right: 2px solid black;
+}
+.relatorio-clientes-nomes {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 10px;
+	border-bottom: 1px solid black;
+}
+.relatorio-clientes-tabela {
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 25px;
+}
+.relatorio-clientes-nome-n {
+	
+}
+
+/* ASSISTENCIA */
+
+.relatorio-assistencia {
+	flex: auto;
+	padding: 10px;
+	max-width: 33%;
+	justify-content: space-evenly;
+	text-align: center;
+	border-right: 2px solid black;
+}
+
+.relatorio-assistencia-nomes {
+	margin-left: 5%;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 15px;
+	border-bottom: 1px solid black;
+}
+.relatorio-assistencia-tabela {
+	display: flex;
+	justify-content: space-evenly;
+	max-width: 90%;
+	padding-top: 35px;
+}
+
+.relatorio-assistencia-valor-n {
+	margin-left:10px;
+	background-color: red;
+}
+
+/*APARELHOS + CONSERTADOS */
+
+
+.relatorio-aparelho {
+	flex: auto;
+	padding: 10px;
+	max-width: 33%;
+	justify-content: space-evenly;
+	text-align: center;
+}
+
+.relatorio-aparelho-nomes {
+	margin-left: 10%;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 10px;
+	border-bottom: 1px solid black;
+}
+.relatorio-aparelho-tabela {
+	display: flex;
+	justify-content: space-evenly;
+	max-width: 100%;
+	padding-top: 25px;
+}
+
+.linha-atendente {
+	border: 1px solid black;
+}
+table {
+	display: flex;
+	margin-left: 50px;
+	justify-content: center;
+}
