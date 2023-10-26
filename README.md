@@ -19,7 +19,7 @@ Este trabalho é um projeto da disciplina de Banco de Dados do 3º semestre do C
   <tr>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/acessorio.png"></td>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/aparelho.png"></td>
-    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/assistente"></td>
+    <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/assistente.png"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/Lu1zReis/trabalhoBancoDados-GirlTech/blob/main/imagens/atendente.png"></td>
